@@ -1,1 +1,1 @@
-Rogelio Gonzalez. 
+Rogelio Gonzalez. PiedraPapelyTijera2 es el tipico juego que todos conococemos. El programa implementado se crea usando un while con la condicion de corte de rondas totales que son 5 y a la vez tambien dentro del while se encuentra el caso en el que el usuario o la pc gane de forma anticipada antes de que se terminan las 5 rondas.Luego de que se cumpla el ciclo de las rondas totales o la victoria antisipada, se muestran los resultados.
